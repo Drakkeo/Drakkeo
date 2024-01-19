@@ -7,24 +7,33 @@
   </h1>
 
   <p align="center">
-    Sou um Desenvolvedor Back End e Front End; também trabalho com administração de sites e Análise de Sistemas!
+    Sou um <strong>Desenvolvedor Back End e Front End</strong>; também trabalho com <strong>Administração de Sites e Análise de Sistemas!</strong>
   </p>
   
   <p align="center">
-  📬 Se estiver interessado em entrar em contato comigo, envie um email para: drakkoocontact@gmail.com
+  Eu trabalho com <strong>Desenvolvimento e Suporte Técnico de Jogos</strong>, além de <strong>Desenvolvimento e Análise de Sistemas</strong>.
+  </p>
+  
+  <p align="center">
+  📬 Se estiver interessado em entrar em contato comigo, envie um email para: <strong>drakkoocontact@gmail.com</strong>
+  </p>
+
+   <p align="center">
+  🌎 Meu idioma nativo é o <strong>PT-BR</strong>, sou brasileiro, mas também entendo comunicações em <strong>EN-US.</strong>
   </p>
   
 </div>
 
 <div align="center">
-  <a href="https://github.com/duribeiro">
+  <a href="https://github.com/drakkeo">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=drakkeo&count_private=false&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakkeo&theme=dracula&hide_border=false&&layout=compact"/>
+    <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=drakkeo&theme=radical&mode=weekly" />
   </a>
 </div>
 
 <div align="center" valign="top"><br>
-  
+    
 #### Principal Stack:
   
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -40,7 +49,7 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 
   <div align="center" valign="top"><br>
-
+      
   #### Databases:
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
   ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
