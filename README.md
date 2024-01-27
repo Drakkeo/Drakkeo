@@ -2,27 +2,25 @@
     <img align="center" style="margin-bottom:100px" width=100% src="https://cdn.discordapp.com/attachments/1074501079598903326/1197739863336824894/Sem_Titulo-1.png?ex=65bc5d2c&is=65a9e82c&hm=497946ec203f6af56a6eae0fa831d7a7b16ea1fb2e956c4794863beb0ec3d28a&" />
 &nbsp;&nbsp;&nbsp;
   <h1 align="center">
-    Oi Tudo bem? Eu sou o 
+    Hi there! How are you? I'm 
     <a href="https://github.com/Drakkeo">Drakkeo</a>
-  </h1>
+</h1>
 
-  <p align="center">
-    Sou um <strong>Desenvolvedor Back End e Front End</strong>; também trabalho com <strong>Administração de Sites e Análise de Sistemas!</strong>
-  </p>
-  
-  <p align="center">
-  Eu trabalho com <strong>Desenvolvimento e Suporte Técnico de Jogos</strong>, além de <strong>Desenvolvimento e Análise de Sistemas</strong>.
-  </p>
-  
-  <p align="center">
-  📬 Se estiver interessado em entrar em contato comigo, envie um email para: <strong>drakkoocontact@gmail.com</strong>
-  </p>
+<p align="center">
+    I am a <strong>Back End and Front End Developer</strong>; I also work with <strong>Website Administration and System Analysis!</strong>
+</p>
 
-   <p align="center">
-  🌎 Meu idioma nativo é o <strong>PT-BR</strong>, sou brasileiro, mas também entendo comunicações em <strong>EN-US.</strong>
-  </p>
-  
-</div>
+<p align="center">
+    I specialize in <strong>Game Development and Technical Support</strong>, as well as <strong>System Development and Analysis</strong>.
+</p>
+
+<p align="center">
+    📬 If you're interested in getting in touch with me, feel free to send an email to: <strong>drakkoocontact@gmail.com</strong>
+</p>
+
+<p align="center">
+    🌎 My native language is <strong>PT-BR</strong>, I'm Brazilian, but I also understand communications in <strong>EN-US.</strong>
+</p>
 
 <div align="center">
   <a href="https://github.com/drakkeo">
@@ -34,7 +32,7 @@
 
 <div align="center" valign="top"><br>
     
-#### Principal Stack:
+#### Main Stack:
   
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
@@ -54,14 +52,14 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
   ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
-  #### Ferramentas de Estação de Trabalho:
+  #### Workstation Tools:
   ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
   ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
   ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
   
 </div><br>
 
-## Redes Sociais:
+## Social Media:
 
 <div align="center">
   <a href="https://www.youtube.com/channel/UCjThB-9eKR4Fe7lD1zWXxEQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -75,5 +73,5 @@
 </div>
 
 <div align="center">
-  <p>Obrigado por visitar meu perfil :heart:</p>
+  <p>Thank you so much for visiting my profile :heart:</p>
 </div>
